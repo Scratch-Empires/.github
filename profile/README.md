@@ -1,2 +1,2 @@
-# Welcome to the Scratch Empires Github Organization!
-### Sadly, right now, this file is under construction, so please wait until we've finished!
+# Welcome to Scratch Empires!
+Here is where we work on all of our web development, including our website.
